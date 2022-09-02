@@ -3,7 +3,7 @@
 <br/>
 
 <p>
-  
+  <br />
 Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
 
 <div>
@@ -25,7 +25,7 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and 
 </details>
   
 </p>
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditchallaway&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <details>
   <summary>📕 Blog Posts</summary>
