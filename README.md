@@ -26,8 +26,8 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and 
   
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditchallaway&repo=minty-fresh)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditchallaway&repo=minty-fresh)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditchallaway&repo=minty-fresh)](https://github.com/ditchallaway/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ditchallaway&repo=minty-fresh)](https://github.com/ditchallawaynorthernlights)
 <!--
 <details>
   <summary>📕 Blog Posts</summary>
