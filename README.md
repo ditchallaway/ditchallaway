@@ -2,15 +2,15 @@
 
 
 
-<img align="right" width="45%" src="https://www.dropbox.com/s/dkww9tgl7ohllwh/macgyver.jpg?raw=1"/>
+<img align="right" width="40%" src="https://www.dropbox.com/s/dkww9tgl7ohllwh/macgyver.jpg?raw=1"/>
 
 
 
-  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ditchallaway&theme=radical&title_color=ff3068"></a><img align="left" width="50%" src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1">
+  <a href="https://github.com/Giingu"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=ditchallaway&theme=radical&title_color=ff3068"></a><img align="left" width="50%" src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1">
   
 
   
-  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=ditchallaway&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
+  <img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=ditchallaway&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
 
 
 
