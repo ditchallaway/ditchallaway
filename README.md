@@ -1,4 +1,7 @@
 
+
+
+
 <img align="right" width="45%" src="https://www.dropbox.com/s/dkww9tgl7ohllwh/macgyver.jpg?raw=1"/>
 
 
@@ -41,3 +44,28 @@
 - 📫 Reach me out at **jonny@jonnybot.com**
 
 </details>
+
+
+
+<details>
+    <summary><h1>➡️ More about me</h1></summary>
+
+<img width="40%" align="right" src="https://www.dropbox.com/s/uo8djc9rektg9xr/Google_05-14-2022.gif?raw=1">
+
+
+- ⛔ I will not be taking new "Enterprise" clients  untill further notice.
+
+- 🌱 I’m currently set up for very small business and independent professionals🤓
+
+<!--- 🤝 I’m looking for help with **finding projects to contribute to!**-->
+
+- 👨‍💻 All of my projects are available at [jonnybot.com](https://jonnybot.com)
+
+- 💬 Ask me about **How the heck does that work?**
+
+- 📫 Reach me out at **jonny@jonnybot.com**
+
+</details>
+
+
+
