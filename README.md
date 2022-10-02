@@ -50,7 +50,7 @@
 <details>
     <summary><h1>➡️ More about me</h1></summary>
 
-<img width="40%" align="right" src="https://www.dropbox.com/s/uo8djc9rektg9xr/Google_05-14-2022.gif?raw=1">
+<img align="right" src="https://www.dropbox.com/s/uo8djc9rektg9xr/Google_05-14-2022.gif?raw=1">
 
 
 - ⛔ I will not be taking new "Enterprise" clients  untill further notice.
