@@ -1,5 +1,5 @@
 
-<img align="right" width="49%" src="https://www.dropbox.com/s/v8kc8mdalwplm2a/macgyver%20%28edited%29.jpg?raw=1"/>
+<img align="right" width="46%" src="https://www.dropbox.com/s/v8kc8mdalwplm2a/macgyver%20%28edited%29.jpg?raw=1"/>
 
   <a href="https://github.com/ditchallaway"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=ditchallaway&theme=radical&title_color=ff3068"></a><img align="left" width="49%" src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1">
   
