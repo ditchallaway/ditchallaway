@@ -41,8 +41,9 @@
 
 <details>
     <summary><h1>Northern Lights Condominiums</h1></summary>
-  <img src="https://www.dropbox.com/s/t0k4grpc77xbxhm/62d11dd8e8be95f70a43ff46_Untitled-1.jpg?raw=1">
-  <img src="https://www.dropbox.com/s/6orc8nee9iqe2on/nl.jpg?raw=1">
+
+  <img width="49%" src="https://www.dropbox.com/s/6orc8nee9iqe2on/nl.jpg?raw=1">
+  <img width="49%" src="https://www.dropbox.com/s/t0k4grpc77xbxhm/62d11dd8e8be95f70a43ff46_Untitled-1.jpg?raw=1">
 
 
 
