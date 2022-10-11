@@ -40,27 +40,17 @@
 
 
 <details>
-    <summary><h1>➡️ More about me</h1></summary>
+    <summary><h1>Northern Lights Condominiums</h1></summary>
+  <img src="https://www.dropbox.com/s/t0k4grpc77xbxhm/62d11dd8e8be95f70a43ff46_Untitled-1.jpg?raw=1">
+  <img src="https://www.dropbox.com/s/6orc8nee9iqe2on/nl.jpg?raw=1">
 
-<img align="right" src="https://www.dropbox.com/s/uo8djc9rektg9xr/Google_05-14-2022.gif?raw=1">
 
 
-- ⛔ I will not be taking new "Enterprise" clients  untill further notice.
-
-- 🌱 I’m currently set up for very small business and independent professionals🤓
-
-<!--- 🤝 I’m looking for help with **finding projects to contribute to!**-->
-
-- 👨‍💻 All of my projects are available at [jonnybot.com](https://jonnybot.com)
-
-- 💬 Ask me about **How the heck does that work?**
-
-- 📫 Reach me out at **jonny@jonnybot.com**
 
 </details>
 
 <img src="https://www.dropbox.com/s/8te45hcgzsimwky/bt.jpg?raw=1">
-<img src="https://www.dropbox.com/s/6orc8nee9iqe2on/nl.jpg?raw=1">
+
 <img src="https://www.dropbox.com/s/dd284kzubhelhqc/ws.jpg?raw=1">
 
 
