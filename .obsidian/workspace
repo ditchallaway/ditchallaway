@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "2026ba7eae8a31b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9452df75e1e309bb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb574362381763cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e10500ea20c87731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5120913396e42e3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "20e98181bbc2f391",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41ac557830178e45",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "822229e1b01f5974",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c7873205e7140e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbcf9e373bd816e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "734839f0d1e19567",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86ba34ac7688a576",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "900adf82858acc51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9452df75e1e309bb",
+  "lastOpenFiles": [
+    "README.md",
+    "bt.jpg",
+    "nl.jpg",
+    "waxandskincare.com_.png",
+    "Screenshot 2022-10-11 010812.png",
+    "ws.jpg",
+    "waxandskincare.com_(iPhone 12 Pro).png"
+  ]
+}
