@@ -1,7 +1,7 @@
 
 <img align="right" width="48%" src="https://www.dropbox.com/s/v8kc8mdalwplm2a/macgyver%20%28edited%29.jpg?raw=1"/>
-<a href="https://github.com/ditchallaway"><img width="50%" justify="bottom" src="https://readme-seymour-mgea4ooas-bigchop.vercel.app/api?username=ditchallaway&theme=radical&title_color=ff3068"></a><img align="left" width="50%" src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ditchallaway&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
+<a href="https://github.com/ditchallaway"><img width="49%" justify="bottom" src="https://readme-seymour-mgea4ooas-bigchop.vercel.app/api?username=ditchallaway&theme=radical&title_color=ff3068"></a><img align="left" width="50%" src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ditchallaway&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
 <p align="left">
 
 <img width="24%" src="https://readme-seymour.vercel.app/api/pin?username=ditchallaway&repo=eazymode&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
