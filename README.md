@@ -1,6 +1,6 @@
 
 
-<img src="https://readme-seymour-mgea4ooas-bigchop.vercel.app/api?username=ditchallaway&theme=radical&title_color=ff3068">
+<img width="50%" src="https://readme-seymour-mgea4ooas-bigchop.vercel.app/api?username=ditchallaway&theme=radical&title_color=ff3068">
 
 <img width="50%" src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1">
 
