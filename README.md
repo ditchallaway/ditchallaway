@@ -1,12 +1,12 @@
 
-<table><tr><td width="100%">
+
 
 
 <img src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1">
+<table><tr><td width="100%">
 
 
-</td>
- <td width="100
+
 <h3>Current Projects</h3>
 
 <details>
