@@ -1,17 +1,13 @@
 
-<table><tr><td width="42%">
-<img src="https://readme-seymour-mgea4ooas-bigchop.vercel.app/api?username=ditchallaway&theme=radical&title_color=ff3068">
+<table><tr><td width="100%">
+
 
 <img src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ditchallaway&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
 
-<p align="left">
-<img width="49%" src="https://readme-seymour.vercel.app/api/pin?username=ditchallaway&repo=hippy-crack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
-<img width="49%" src="https://readme-seymour.vercel.app/api/pin?username=ditchallaway&repo=kray-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
-</p>
 </td>
- <td width="58%">
+ <td width="100
 <h3>Current Projects</h3>
 
 <details>
