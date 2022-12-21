@@ -20,7 +20,7 @@
 <details><summary><h3>🔸 BrokerTricks</h3></summary>
 
   <img src="https://www.dropbox.com/s/8te45hcgzsimwky/bt.jpg?raw=1">
-
+<img width="40%" align="right" src="https://www.dropbox.com/s/7vfwt0a0vegh5m6/032.png?raw=1">
 </details>
 
 
