@@ -2,7 +2,7 @@
 
 
 
-<img src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1" width="100%">
+<img src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1" width="100%" border-width="20px" border-color="black">
 <table width="100%">
 <tr>
 <td width="100%">
