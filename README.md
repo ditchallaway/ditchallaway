@@ -36,11 +36,6 @@
 
 <img width="40%" align="right" src="https://www.dropbox.com/s/7vfwt0a0vegh5m6/032.png?raw=1">
 
-
-- I will not be taking new "Enterprise" clients  untill further notice.
-
-- ▪️ I’m currently set up for very small business and independent professionals🤓
-
 - ▪️◾ All of my projects are available at [jonnybot.com](https://jonnybot.com)
 
 - ▪️◾◼️ Reach me out at **jonny@jonnybot.com**
