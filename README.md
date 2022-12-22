@@ -2,7 +2,7 @@
 
 
 
-<img src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1" width="100%" margin="150px">
+<img src="https://github.com/ditchallaway/ditchallaway/blob/bot.svg?raw=true" width="100%">
 
 <table width="100%">
 <tr>
