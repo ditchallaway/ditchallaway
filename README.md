@@ -19,7 +19,7 @@
 
 <details><summary><h3>🔸 BrokerTricks</h3></summary>
     <img src="https://www.dropbox.com/s/8te45hcgzsimwky/bt.jpg?raw=1">
-    <img width="40%" align="right" src="https://www.dropbox.com/s/7vfwt0a0vegh5m6/032.png?raw=1">
+    <img align="right" src="https://www.dropbox.com/s/7vfwt0a0vegh5m6/032.png?raw=1">
 </details>
 
 <details>
@@ -29,10 +29,10 @@
 
 <details>
     <summary><h3>⁉️ Fun Facts About Me</h3></summary>
-    <img width="40%" align="right" src="https://www.dropbox.com/s/7vfwt0a0vegh5m6/032.png?raw=1">
+    <img align="right" src="https://www.dropbox.com/s/7vfwt0a0vegh5m6/032.png?raw=1">
     <p style="color:red;>- ▪️◾</p> All of my projects are available at <a href="https://jonnybot.com">jonnybot.com</a>
     <p style="color:red;>- ▪️◾◼️</p> Reach me out at **jonny@jonnybot.com**
-    <img width="30%" align="right" src="https://www.dropbox.com/s/v8kc8mdalwplm2a/macgyver%20%28edited%29.jpg?raw=1"/>
+    <img align="left" src="https://www.dropbox.com/s/v8kc8mdalwplm2a/macgyver%20%28edited%29.jpg?raw=1">
 </details>
 
 
