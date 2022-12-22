@@ -1,8 +1,9 @@
 
 
 
-
-<img src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1" width="100%" border-width="20px" border-color="black">
+<div padding="50px">
+<img src="https://www.dropbox.com/s/5z2gyo3x9uwqjou/bot.gif?raw=1" width="100%">
+</div>
 <table width="100%">
 <tr>
 <td width="100%">
