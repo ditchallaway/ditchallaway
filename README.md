@@ -3,7 +3,7 @@
 
 
 <img src="https://github.com/ditchallaway/ditchallaway/blob/main/bot.svg?raw=true" width="100%">
-<span align="center"> <h1> 👷‍♀️ Projects 👷‍♂️: </h1> 
+<span align="center"> <h1> 👷‍♀️ Projects 👷‍♂️ </h1> 
 <details>
   <summary><h1>🚧</h1><h3> Northern Lights</h3></summary>
   <img src="https://www.dropbox.com/s/6orc8nee9iqe2on/nl.jpg?raw=1">
@@ -19,7 +19,7 @@
   <summary><h1>🚧</h1><h3> Wax and Skin Care</h3></summary>
     <img src="https://www.dropbox.com/s/dd284kzubhelhqc/ws.jpg?raw=1">
 </details></span>
-<span align="center"> <h1> 🏰 Quests Complete 🏰: </h1> 
+<span align="center"> <h1> 🏰 Quests Complete 🏰 </h1> 
 
 <details>
   <summary><h1>⚔️</h1><h3> Northern Lights</h3></summary>
@@ -38,7 +38,7 @@
 </details>
 
 <details>
-  <summary><h1> 🤖 About JonnyBot 🤖: </h1> 
+    <summary><h1> 🤖 About JonnyBot 🤖 </h1> </summary>
     <img src="https://github.com/ditchallaway/ditchallaway/blob/main/hacker.jpg?raw=true" width="100%">
     <span align="center"><h1><table align="center">
      <tr>
