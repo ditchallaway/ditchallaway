@@ -35,17 +35,21 @@
 <details>
   <summary><h1>⚔️</h1><h3> Wax and Skin Care</h3></summary>
     <img src="https://www.dropbox.com/s/dd284kzubhelhqc/ws.jpg?raw=1">
-</details>
-
+</details></span>
+<span align="center"> <h1> 🔗 Links 🔗 </h1>
 <details>
-    <summary><h1> 🤖 About JonnyBot 🤖 </h1> </summary>
-    <img src="https://github.com/ditchallaway/ditchallaway/blob/main/hacker.jpg?raw=true" width="100%">
-    <span align="center"><h1><table align="center">
+  <summary><h1>📬</h1><h3> Contact </h3> </summary>
+ <h1><table align="center">
      <tr>
      <td> Reach Me 👉 </td><td><a href="mailto:jonny@jonnybot.com"> jonny@jonnybot.com </a></td> 
      </tr>
      <tr>
-     <td> More Wierdness 👉 </td><td><a href="https://jonnybot.com"> jonnybot.com </a></td>
+     <td> More Weirdness 👉 </td><td><a href="https://jonnybot.com"> jonnybot.com </a></td>
      </tr>
-     </table></h1></span>
+     </table>
+  </h1>
+ </details>
+ <details>
+ <summary><h1>🤖</h1><h3> BOT </h3> </summary>
+    <img src="https://github.com/ditchallaway/ditchallaway/blob/main/hacker.jpg?raw=true" width="100%">
 </details></span>
