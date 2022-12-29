@@ -19,7 +19,7 @@
 </details>
 
 <details>
-  <summary><h1>⚔️</h1><h3> Wax and Skin Care</h3></summary>
+  <summary style="background-color:#FAFD9E;"><h1>⚔️</h1><h3> Wax and Skin Care</h3></summary>
     <img src="https://www.dropbox.com/s/dd284kzubhelhqc/ws.jpg?raw=1">
 </details></span>
 <span align="center"> <h1> 👷‍♀️ Projects 👷‍♂️ </h1> 
