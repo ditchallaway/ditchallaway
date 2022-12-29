@@ -4,7 +4,8 @@
 
 <img src="https://github.com/ditchallaway/ditchallaway/blob/main/bot.svg?raw=true" width="100%">
 <span align="center"> <h1> 🏰 Quests Complete 🏰 </h1> 
-<span align="center"> <p>"I love it when a plan comes together" -Hanibal <small>Co-Founder of The A-Team</small></p>
+  <h2>Completed Clint Work</h2>
+<span align="center"> <p>"I love it when a plan comes together" -H.S. <br><sm>Co-Founder of The A-Team</sm></p>
 <details>
   <summary><h1>⚔️</h1><h3> Northern Lights</h3></summary>
   <img src="https://www.dropbox.com/s/6orc8nee9iqe2on/nl.jpg?raw=1">
