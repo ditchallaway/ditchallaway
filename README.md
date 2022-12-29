@@ -6,7 +6,7 @@
 <span align="center"> <h1> 🏰 Quests Complete 🏰 </h1> 
   <h2>Completed Clint Work</h2>
 <span align="center"> <p>"I love it when a plan comes together" -H.S. <br><sm>Co-Founder of The A-Team</sm></p>
-<details style="background-color:#111111">
+<details style="background-color:#111111;">
   <summary><h1>⚔️</h1><h3> Northern Lights</h3></summary>
   <img src="https://www.dropbox.com/s/6orc8nee9iqe2on/nl.jpg?raw=1">
   <img src="https://uploads-ssl.webflow.com/61df40e8ff2202021755e0c9/639b5ff21e510e520b3d6d83_Horizontal_Book_Mockup_2%20(Medium).png" width="100%" />
