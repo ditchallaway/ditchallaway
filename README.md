@@ -4,7 +4,7 @@
 
 <img src="https://github.com/ditchallaway/ditchallaway/blob/main/bot.svg?raw=true" width="100%">
 <span align="center"> <h1> 🏰 Quests Complete 🏰 </h1> 
-  <h2>Completed Clint Work</h2>
+  <h2>Clint Projects</h2>
 <span align="center"> <p>"I love it when a plan comes together" -H.S. <br><sm>Co-Founder of The A-Team</sm></p>
 <details style="background-color:lightgray;">
   <summary><h1>⚔️</h1><h3> Northern Lights</h3></summary>
@@ -14,7 +14,7 @@
 </details>
 
 <details style="background-color:lightyellow;">
-<summary><h1>⚔️</h1><h3> BrokerTricks</h3></summary>
+<summary style="background-color:lightyellow;"><h1>⚔️</h1><h3> BrokerTricks</h3></summary>
     <img src="https://www.dropbox.com/s/8te45hcgzsimwky/bt.jpg?raw=1">
 </details>
 
