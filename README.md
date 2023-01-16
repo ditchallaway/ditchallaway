@@ -4,7 +4,7 @@
 
 <img src="https://github.com/ditchallaway/ditchallaway/blob/main/bot.svg?raw=true" width="100%">
 <span align="center"> <h1> 🏰 Quests Complete 🏰 </h1> 
-  <h2>Clint Projects</h2>
+  <h2>Client Projects</h2>
 <span align="center"> <p>"I love it when a plan comes together" -H.S. <br><sm>Co-Founder of The A-Team</sm></p>
 <details style="background-color:lightgray;">
   <summary style="background-color:lightgray;"><h1>⚔️</h1><h3> Northern Lights</h3></summary>
