@@ -5,7 +5,7 @@
 <img src="https://github.com/ditchallaway/ditchallaway/blob/main/bot.svg?raw=true" width="100%">
 <span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1> 
 <details>
-  <summary><h1>🚧</h1><h3> Hippy Crack </h3><img src="https://www.dropbox.com/s/ss4yjvx4sb2st1a/Screenshot%202023-02-27%20132308.png?raw=1"></summary>
+  <summary><h1>🚧</h1><h3> Hippy Crack </h3></summary>
   <img src="https://www.dropbox.com/s/ss4yjvx4sb2st1a/Screenshot%202023-02-27%20132308.png?raw=1">
   </details>
 
