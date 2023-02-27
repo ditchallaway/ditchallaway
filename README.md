@@ -5,10 +5,9 @@
 <img src="https://github.com/ditchallaway/ditchallaway/blob/main/bot.svg?raw=true" width="100%">
 <span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1> 
 <details>
-  <summary><h1>🚧</h1><h3> Hippy Crack </h3></summary>
-  <img src="https://www.dropbox.com/s/6orc8nee9iqe2on/nl.jpg?raw=1">
-  <img src="https://www.dropbox.com/s/t0k4grpc77xbxhm/62d11dd8e8be95f70a43ff46_Untitled-1.jpg?raw=1">
-</details>
+  <summary><h1>🚧</h1><h3> Hippy Crack </h3><img src="https://www.dropbox.com/s/ss4yjvx4sb2st1a/Screenshot%202023-02-27%20132308.png?raw=1"></summary>
+  <img src="https://www.dropbox.com/s/ss4yjvx4sb2st1a/Screenshot%202023-02-27%20132308.png?raw=1">
+  </details>
 
 <details>
   <summary><h1>🚧</h1><h3> BrokerTricks</h3></summary>
