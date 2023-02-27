@@ -3,7 +3,6 @@
 
 
 <img src="https://github.com/ditchallaway/ditchallaway/blob/main/bot.svg?raw=true" width="100%">
-
 <span align="center"> <h1> 🏰 Quests Complete 🏰 </h1> 
   <h2>Client Projects</h2>
 <span align="center">
