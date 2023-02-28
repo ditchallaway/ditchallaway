@@ -3,12 +3,7 @@
 
 
 <img src="https://github.com/ditchallaway/ditchallaway/blob/main/bot.svg?raw=true" width="100%">
-<span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1>  <svg width="500" height="300" style="border:1px red solid">
-            <foreignobject class="node" x="46" y="22" width="100" height="100">
-                
-                    <div style="border:1px green solid">I'm a div inside a SVG.</div>                
-            </foreignobject>
-        </svg>
+<span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1>  
 <details>
   <summary><h1>🚧</h1><h3> Hippy Crack </h3></summary>
   <img src="https://www.dropbox.com/s/ss4yjvx4sb2st1a/Screenshot%202023-02-27%20132308.png?raw=1">
