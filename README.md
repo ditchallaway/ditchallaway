@@ -1,6 +1,30 @@
 
 
 <img src="https://www.dropbox.com/s/308npuscfgsylzw/bot-screen-lux.gif?raw=1" width="100%">
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    div {
+      background: pink;
+      font: 12px serif;
+      padding: 10px;
+    }
+    
+    .red {
+      color: red;
+    }
+    
+    .green {
+      color: green
+    }
+  </style>
+
+  <foreignObject x="20" y="20" width="160" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <p class="red">This is red color</p>
+      <p class="green">This is green color</p>
+    </div>
+  </foreignObject>
+</svg>
 <span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1>  
 <details>
   <summary><h1>🚧</h1><h3> Hippy Crack </h3></summary>
