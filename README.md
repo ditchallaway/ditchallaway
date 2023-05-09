@@ -12,10 +12,7 @@
     <img src="https://www.dropbox.com/s/8te45hcgzsimwky/bt.jpg?raw=1">
 </details>
 
-<details>
-  <summary><h1>🚧</h1><h3> Wax and Skin Care</h3></summary>
-    <img src="https://www.dropbox.com/s/dd284kzubhelhqc/ws.jpg?raw=1">
-</details></span>
+</span>
 <span align="center"> <h1> 🏰 Quests Complete 🏰 </h1> 
   <h2>Client Projects</h2>
 <span align="center">
