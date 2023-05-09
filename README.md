@@ -6,7 +6,7 @@
   <summary><h1>🚧</h1><h3> Hippy Crack </h3></summary>
   <img src="https://www.dropbox.com/s/ss4yjvx4sb2st1a/Screenshot%202023-02-27%20132308.png?raw=1">
   </details>
-
+  
 <details>
   <summary><h1>🚧</h1><h3> BrokerTricks</h3></summary>
     <img src="https://www.dropbox.com/s/8te45hcgzsimwky/bt.jpg?raw=1">
