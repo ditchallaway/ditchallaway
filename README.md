@@ -1,6 +1,7 @@
 
 
 <img src="https://www.dropbox.com/s/308npuscfgsylzw/bot-screen-lux.gif?raw=1" width="100%">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qtxn8qj2eo0fiqcc2s18ssga1&unique={true|1|on|yes})
 <span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1>  
 <details>
   <summary><h1>🚧</h1><h3> Hippy Crack </h3></summary>
