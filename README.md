@@ -1,6 +1,4 @@
-<img src="https://www.dropbox.com/s/308npuscfgsylzw/bot-screen-lux.gif?raw=1" width="100%">
 <span align="center">
-<image src="https://spotify-recently-played-readme.vercel.app/api?user=qtxn8qj2eo0fiqcc2s18ssga1&unique=1">
   </span>
 <span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1>  
 <details>
