@@ -1,6 +1,5 @@
 <img src="https://www.dropbox.com/s/308npuscfgsylzw/bot-screen-lux.gif?raw=1" width="100%">
 <span align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=qtxn8qj2eo0fiqcc2s18ssga1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 <image src="https://spotify-recently-played-readme.vercel.app/api?user=qtxn8qj2eo0fiqcc2s18ssga1&unique=1">
   </span>
 <span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1>  
