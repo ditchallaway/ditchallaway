@@ -17,7 +17,7 @@
 
 <details>
   <summary><h1>⚔️</h1><h3> Wax and Skin Care</h3></summary>
-    <img src="https://www.dropbox.com/s/dd284kzubhelhqc/ws.jpg?raw=1">
+    <img src="https://www.dropbox.com/scl/fi/tma61615rb2njzhdu3tkj/waxandskincare.com_.png?dl=0&rlkey=iq9dbqmhgqj4mca58czm9p4kg&raw=1">
 </details></span>
 <span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1>  
 <details>
