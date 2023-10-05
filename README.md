@@ -1,8 +1,6 @@
 <span align="center"><span align="center"> <h1> 👷‍♀️ Under Construction 👷‍♂️ </h1>  
-<details>
-  <summary><h2>🚧</h2><h3> Hippy Crack </h3></summary>
+<h2>🚧</h2><h3> Hippy Crack </h3>
   <img src="https://www.dropbox.com/s/ss4yjvx4sb2st1a/Screenshot%202023-02-27%20132308.png?raw=1">
-  </details>
 </span>
   </span>
 <span align="center"> <h2> 🌎 Deployed 🌎 </h2> 
