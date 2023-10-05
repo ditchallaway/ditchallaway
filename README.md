@@ -18,10 +18,10 @@
 </details></span>
 
 <span align="center">
-<h2>📬</h2>
+
  <h2>Reach Me 👉 <a href="mailto:jonny@jonnybot.com"> jonny@jonnybot.com </a></h2>
  <h2>More Weirdness 👉 <a href="https://jonnybot.com"> jonnybot.com
   </h2>
-<h1>🤖</h1><h3> BOT </h3>
+<h1>🤖</h1>
     <img src="https://github.com/ditchallaway/ditchallaway/blob/main/hacker.jpg?raw=true" width="100%">
 </details></span>
