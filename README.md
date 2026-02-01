@@ -1,4 +1,4 @@
-<span align="center"><span align="center"> <a href="https://github.com/ditchallaway/Hippy-Crack"><h1> 🚧 Under Construction </h1>  
+<span align="center"><span align="center"> <a href="https://github.com/ditchallaway/Hippy-Crack">
 <h3> whipit.js </h3>
   <img src="https://www.dropbox.com/s/ss4yjvx4sb2st1a/Screenshot%202023-02-27%20132308.png?raw=1"></a>
 </span>
@@ -19,9 +19,7 @@
 
 <span align="center">
 
- <h2>Reach Me 👉 <a href="mailto:jonny@jonnybot.com"> jonny@jonnybot.com </a></h2>
- <h2>More Weirdness 👉 <a href="https://jonnybot.com"> jonnybot.com
-  </h2>
+
 <h1>🤖</h1>
     <img src="https://github.com/ditchallaway/ditchallaway/blob/main/hacker.jpg?raw=true" width="100%">
 </span>
